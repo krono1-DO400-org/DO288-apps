@@ -1,3 +1,4 @@
+FROM quay.io/redhattraining/http-parent
 # DocumentRoot for Apache
 ENV DOCROOT=/var/www/html 
 
